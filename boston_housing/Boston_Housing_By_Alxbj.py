@@ -2,7 +2,7 @@
 """
 Created on Thu Nov 22 22:50:28 2018
 
-@author:  7961159@qq.com 李欣
+@author:  7961159@qq.com 李欣.............
 """
 
 
